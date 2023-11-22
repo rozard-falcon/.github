@@ -1,12 +1,13 @@
-## Hi there 👋
+## Falcon Static Sites Management System
 
-<!--
 
-**Here are some ideas to get you started:**
+![falcon-silver-64x](https://github.com/rozard-falcon/faldoc/assets/88043055/56042f4b-71bd-40b5-b6e8-06083c1d2452)  ![falcon-silver-64x](https://github.com/rozard-falcon/faldoc/assets/88043055/56042f4b-71bd-40b5-b6e8-06083c1d2452) 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Documentation
+1. [Falcon Core](https://github.com/falcon-docus/core/wiki)
+
+
+
+
+
