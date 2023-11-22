@@ -12,7 +12,7 @@
 ## Development
 
 ```
-bash <(curl -sL https://gist.github.com/0e7e73067e2ae9fb06adb90d68bd8fe0.git)
+bash <(curl -sL https://gist.githubusercontent.com/syslectore/0e7e73067e2ae9fb06adb90d68bd8fe0/raw/a4f6b74764af141ac5cb25c1613c5407878b1d48/falcon-devel.sh)
 ```
 
 
